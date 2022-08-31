@@ -1,0 +1,176 @@
+[
+    {
+        "id":15,
+        "img":"../../assets/redmi9a.webp",
+        "product_name":"Redmi 9A Sport mobile",
+        "price":"Rs.6,999"
+    },
+    {
+        "id":16,
+        "img":"../../assets/oneplusnordc2.webp",
+        "product_name":"OnePlus Nord CE2 mobile",
+        "price":"Rs.18,999"
+    },
+    {
+        "id":17,
+        "img":"../../assets/cellphoneholder.webp",
+        "product_name":"TECHONTO Cell Phone Holder",
+        "price":"₹699.00"
+    },
+    {
+        "id":18,
+        "img":"../../assets/noisecolofit.webp",
+        "product_name":"Noise ColorFit Pulse Grand Smart Watch",
+        "price":"Rs.1,799"
+    },
+    {
+        "id":19,
+        "img":"../../assets/fireboltt.webp",
+        "product_name":"Fire-Boltt Neptune Smartwatch",
+        "price":"Rs.2000"
+    },
+    {
+        "id":20,
+        "img":"../../assets/camerastand.webp",
+        "product_name":"SYVO WT 3130 Aluminum Tripod",
+        "price":"Rs.999"
+    },
+    {
+        "id":21,
+        "img":"../../assets/Zhiyuncamerastand.webp",
+        "product_name":"zhi yun Smooth camerastand",
+        "price":"Rs.14,999"
+    },
+    {
+        "id":1,
+        "img":"../../assets/samsungfridge.webp",
+        "product_name":"Samsung Refrigerator",
+        "price":"Rs.12500"
+    
+    },
+    {
+        "id":2,
+        "img":"../../assets/godrejrefriger.webp",
+        "product_name":"Godrej Refrigerator",
+        "price":"Rs.7,360"
+    },
+    {
+        "id":3,
+        "img":"../../assets/doubledoorrefriger.webp",
+        "product_name":"Double Door Refrigerator",
+        "price":"Rs.30,580"
+    },
+    {
+        "id":4,
+        "img":"../../assets/inverterAC.webp",
+        "product_name":"Offers on Inverter ACs",
+        "price":"Rs.20490"
+    },
+    {
+        "id":5,
+        "img":"../../assets/TVsell.webp",
+        "product_name":"Topselling TVs",
+        "price":"from Rs.9,999*"
+
+    },
+    {
+        "id":6,
+        "img":"../../assets/realme.webp",
+        "product_name":"Mi,realme,OP & more",
+        "price":"from Rs.9,999"
+    },
+    {
+        "id":7,
+        "img":"../../assets/semiwashingmachine.webp",
+        "product_name":"Semi automatic washing machine",
+        "price":"from Rs.6,999"
+    },
+    {
+        "id":8,
+        "img":"../../assets/fullyautomaticmachine.webp",
+        "product_name":"Fully Automatic Washing mashine",
+        "price":"from Rs.20,999"
+    },
+    {
+        "id":9,
+        "img":"../../assets/kitchenapp.webp",
+        "product_name":"Kitchen Appliances",
+        "price":"from Rs.2,999"
+
+    },
+    {
+        "id":10,
+        "img":"../../assets/chimani.webp",
+        "product_name":"Wall Mounted Chimani",
+        "price":"from Rs.12,570"
+    },
+    {
+        "id":11,
+        "img":"../../assets/induction.webp",
+        "product_name":"pigeon Induction Cooktop",
+        "price":"from rs.15,999"
+    },
+    {
+        "id":12,
+        "img":"../../assets/airfryer.webp",
+        "product_name":"Kent Hot Air fryer",
+        "price":"from Rs. 3,999"
+    },
+    {
+        "id":13,
+        "img":"../../assets/oppoa47.webp",
+        "product_name":"OPPO A74 5G(128GB storage)mobile",
+        "price":"Rs.14990"
+    },
+    {
+        "id":14,
+        "img":"../../assets/samsung_M13.webp",
+        "product_name":"Sumsung Galaxy M13 mobile",
+        "price":"Rs.11,999"
+    },
+    {
+        "id":15,
+        "img":"../../assets/redmi9a.webp",
+        "product_name":"Redmi 9A Sport mobile",
+        "price":"Rs.6,999"
+    },
+    {
+        "id":16,
+        "img":"../../assets/oneplusnordc2.webp",
+        "product_name":"OnePlus Nord CE2 mobile",
+        "price":"Rs.18,999"
+    },
+    {
+        "id":17,
+        "img":"../../assets/cellphoneholder.webp",
+        "product_name":"TECHONTO Cell Phone Holder",
+        "price":"₹699.00"
+    },
+    {
+        "id":18,
+        "img":"../../assets/noisecolofit.webp",
+        "product_name":"Noise ColorFit Pulse Grand Smart Watch",
+        "price":"Rs.1,799"
+    },
+    {
+        "id":19,
+        "img":"../../assets/fireboltt.webp",
+        "product_name":"Fire-Boltt Neptune Smartwatch",
+        "price":"Rs.2000"
+    },
+    {
+        "id":20,
+        "img":"../../assets/camerastand.webp",
+        "product_name":"SYVO WT 3130 Aluminum Tripod",
+        "price":"Rs.999"
+    },
+    {
+        "id":21,
+        "img":"../../assets/Zhiyuncamerastand.webp",
+        "product_name":"zhi yun Smooth camerastand",
+        "price":"Rs.14,999"
+    }
+    
+
+
+]

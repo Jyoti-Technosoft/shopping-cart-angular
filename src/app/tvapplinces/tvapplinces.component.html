@@ -1,0 +1,28 @@
+<div class="m-3">
+  <div class="wrap">
+    <div class="search">
+      <input
+        type="text"
+        [(ngModel)]="term"
+        class="searchTerm"
+        placeholder="What are you looking for?"
+      />
+    </div>
+    <div class="conainer">
+      <h1 style="text-align: center">Product</h1>
+      <div class="row">
+        <div class="col" *ngFor="let item of productInfo | filter: term">
+         <a routerLink="tvapp"><img
+            src="
+            {{ item.img }}
+          "
+            class="mr-2"
+            style="width: 150px"
+          /></a> 
+          <p>{{ item.product_name }}</p>
+          <p>{{ item.price }}</p>
+        </div>
+      </div>
+    </div> 
+  </div>
+</div>

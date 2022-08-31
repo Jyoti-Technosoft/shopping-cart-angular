@@ -1,3 +1,24 @@
-.example-spacer {
+/* .example-spacer {
     flex: 1 1 auto;
-  }
+  } */
+
+
+  .from-control {
+    border-radius:5px;
+    margin-left:25px;
+    width:600px;
+    }
+    .search-icon {
+        z-index: 10;
+        position: absolute;
+        right: 46%;
+        color: blue;
+        top: 31%;
+    
+    }
+    .input{
+      background-color: white;
+      height: 20px;
+      width: 400px;
+      margin-left: 100px;
+    }
